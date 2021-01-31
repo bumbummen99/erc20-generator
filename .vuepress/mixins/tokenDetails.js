@@ -32,7 +32,7 @@ export default {
           erc1363: false,
           tokenRecover: false,
           removeCopyright: true,
-          price: 0.15,
+          price: 0,
         },
         {
           name: 'BurnableERC20',
@@ -48,7 +48,7 @@ export default {
           erc1363: false,
           tokenRecover: false,
           removeCopyright: true,
-          price: 0.25,
+          price: 0,
         },
         {
           name: 'MintableERC20',
@@ -64,7 +64,7 @@ export default {
           erc1363: false,
           tokenRecover: false,
           removeCopyright: true,
-          price: 0.35,
+          price: 0,
         },
         {
           name: 'CommonERC20',
@@ -80,7 +80,7 @@ export default {
           erc1363: false,
           tokenRecover: false,
           removeCopyright: true,
-          price: 0.55,
+          price: 0,
         },
         {
           name: 'PowerfulERC20',
@@ -96,7 +96,7 @@ export default {
           erc1363: true,
           tokenRecover: true,
           removeCopyright: true,
-          price: 0.95,
+          price: 0,
         },
       ],
     };
